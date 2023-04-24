@@ -1,0 +1,7 @@
+V1: Copied From Final Project in CIS-17A
+V2: Added Map to translate from card face values to integer values, copy algorithm when reading in from files, set to contain unique card faces, for_each loops, output of sorted card array and sorted suits array
+V3: Added queue to hold players name and stack to print sorted card values
+
+
+
+Final Line Count V3: 1202 Lines 
