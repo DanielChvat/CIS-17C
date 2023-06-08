@@ -1,0 +1,3 @@
+-	V1: Copy of Project1 from CIS-17C
+-	V2: Added Tree for printing deck in order, added graph to find unique suits, added quicksort algorithm for sorting cards, and fixed bug with entering two words for name stopping program prematurely
+-	V3: Added Hashing Algorithm and hash map to allow user to search for and determine if a certain card was in the randomly generated deck
